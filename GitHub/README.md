@@ -382,3 +382,7 @@ Markdown поддерживает упрощённый порядок автом
 <br>
 --------<br>
 copyright: https://github.com/OlgaVlasova/markdown-doc/edit/master/README.md
+
+##### <a name=""></a> Полезные ссылки:
+ - [Создание документов на GitHub] (https://docs.github.com/ru/get-started/writing-on-github)
+ - [Markdown: Syntax] (https://daringfireball.net/projects/markdown/syntax)
